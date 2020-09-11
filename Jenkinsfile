@@ -1,6 +1,6 @@
 @Library('SushanthSL@master') _
 
-import org.sushanth.*
+import org.*
 
 node {
      def nm = "Sushanth Master" 
